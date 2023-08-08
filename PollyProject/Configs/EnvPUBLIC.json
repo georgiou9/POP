@@ -1,0 +1,5 @@
+{
+  "CoinDeskServices": {
+    "BaseUrl": "https://api.coindesk.com"
+  }
+}
